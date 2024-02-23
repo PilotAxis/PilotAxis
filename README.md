@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 About Me: ---
+[![](https://visitcount.itsvg.in/api?id=PilotAxis&icon=2&color=0)](https://visitcount.itsvg.in)
 🌟 I am a first-year B.Tech undergraduate student pursuing Petrochemical Engineering from Aligarh Muslim University.<br>🌎 An aspiring DevOps Engineer and Blockchain Developer. Eager to learn new technologies and concepts.<br>🔥 Dedicated to building and contributing to Open-Source Projects.<br>🍀 Being Co-founder of Nexus-AI, I am building a groundbreaking platform that provides Roadmaps, Documentation and Guides related to newer technologies such as AI/ML, Blockchain etc.<br>☎️ Catch me on Instagram @moham_ahmed_majid and X @Pythonista.
 
 
@@ -11,8 +12,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=PilotAxis&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PilotAxis&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PilotAxis&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=PilotAxis&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
