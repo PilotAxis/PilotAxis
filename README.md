@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=PilotAxis&icon=2&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me: 
-🌟 I am a first-year B.Tech undergraduate student pursuing Petrochemical Engineering from Aligarh Muslim University.<br>🌎 An aspiring DevOps Engineer and Blockchain Developer. Eager to learn new technologies and concepts.<br>🔥 Dedicated to building and contributing to Open-Source Projects.<br>🍀 Being Co-founder of Nexus-AI, I am building a groundbreaking platform that provides Roadmaps, Documentation and Guides related to newer technologies such as AI/ML, Blockchain etc.<br>☎️ Catch me up on Instagram @moham_ahmed_majid and X @mohdahmedmajid.
+🌟 I am a first-year B.Tech undergraduate student pursuing Engineering from Aligarh Muslim University.<br>🌎 An aspiring AI/ML Engineer. Eager to learn new technologies and concepts.<br>🔥 Dedicated to building and contributing to Open-Source Projects.<br>🍀 Being Co-founder of Nexus-AI, I am building a groundbreaking platform that provides Roadmaps, Documentation and Guides related to newer technologies such as AI/ML, Blockchain etc.<br>☎️ Catch me up on Instagram @moham_ahmed_majid and X @mohdahmedmajid.
 
 
 ## 🌐 Socials:
