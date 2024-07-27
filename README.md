@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=PilotAxis&icon=2&color=10)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🌟 I am a second-year B.Tech undergraduate student from Aligarh Muslim University.<br>🌎 An aspiring AI/ML Engineer. Eager to learn new technologies and concepts.<br>🔥 Dedicated to building and contributing to Open-Source Projects.<br>🍀 Being Co-founder of Nexus-AI, I am building a groundbreaking platform that provides Roadmaps, Documentation and Guides related to newer technologies such as AI/ML, Blockchain etc.<br>☎️ Catch me up on Instagram @moham_ahmed_majid and on X @mohdahmedmajid.
+🌟 I am a second-year B.Tech undergraduate student from Aligarh Muslim University.<br>🌎 An aspiring MERN Stack Developer. Eager to learn new technologies and concepts.<br>🔥 Dedicated to building and contributing to Open-Source Projects.<br>🍀 Being Co-founder of Nexus-AI, I am building a groundbreaking platform that provides Roadmaps, Documentation and Guides related to newer technologies such as AI/ML, Blockchain etc.<br>☎️ Catch me up on Instagram @moham_ahmed_majid and on X @mohdahmedmajid.
 
 
 ## 🌐 Socials:
@@ -14,3 +14,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=PilotAxis&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PilotAxis&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PilotAxis&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+</a>
+</div>
