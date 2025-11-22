@@ -1,6 +1,17 @@
 # 💫 About Me:
-I’m a passionate and curious developer with a keen interest in building real-world solutions through code. I enjoy learning new technologies, contributing to open-source projects, and exploring fields like embedded systems, automation, and blockchain. Currently, I’m focused on improving my skills in system design, hardware-software integration, and clean coding practices. I believe in continuous growth and collaboration, and I love being part of communities that innovate and share knowledge. Whether it’s solving a complex bug or optimizing performance, I enjoy the process of learning and building impactful solutions. Always open to collaboration, feedback, and new opportunities to grow.
+👋 Hi, I’m Mohammed Ahmed Majid
 
+I’m an engineering student passionate about power electronics, electric vehicles, control systems, blockchain applications, and sustainable energy technologies. I enjoy building simulation-based and software-driven projects that solve real-world engineering problems.
+
+🔬 What I Do
+	•	⚡ Power Electronics & Machines: BLDC motor control (FOC, SVPWM), converter design, EV charger modelling
+	•	🔗 Blockchain: Projects focused on secure EV charging payment systems
+	•	🌞 Clean Energy Projects: Solar PV–powered motor drives & efficient energy systems
+  
+🎯 What I’m Looking For
+	•	Open-source collaborations
+	•	Research internships
+	•	Projects in EVs, power electronics, renewable energy & automation
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohd_ahmed_majid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedmajid72014) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedahmedmajid14@gmail.com) 
